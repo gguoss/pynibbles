@@ -1,3 +1,8 @@
+/*************************************************************************
+ * Copyright (c) 2016 Gavin Guo                                          *
+ * Distributed under the MIT software license.                           *
+ *************************************************************************/
+
 #include <Python.h>
 #include <string.h>
 #include <malloc.h>
